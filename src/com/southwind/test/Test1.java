@@ -3,6 +3,7 @@ package com.southwind.test;
 public class Test1 extends ClassLoader{
 	public static void main(String[] args) {
 		System.out.println("hello GitHub");
+		System.out.println("杨子旭");
 	}
 
 	public Test1() {
